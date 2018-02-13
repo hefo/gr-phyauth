@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<block>
+  <name>sample_and_hold</name>
+  <key>phyauth_sample_and_hold</key>
+  <category>[phyauth]</category>
+  <import>import phyauth</import>
+  <make>phyauth.sample_and_hold()</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+  
+<sink>
+	<name>in</name>
+	<type>float</type>
+</sink>
+<sink>
+	<name>ctrl</name>
+	<type>float</type>
+</sink>
+<source>
+	<name>out</name>
+	<type>float</type>
+</source>
+
+
+</block>

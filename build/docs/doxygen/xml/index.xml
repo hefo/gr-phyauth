@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
+  <compound refid="classgr_1_1phyauth_1_1comparator" kind="class"><name>gr::phyauth::comparator</name>
+    <member refid="classgr_1_1phyauth_1_1comparator_1a9f1ddf7e6d219a06a04741f4fb76abb0" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1phyauth_1_1comparator_1a044e37a3915ecd5c24db7d8147f9d153" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="classgr_1_1phyauth_1_1comparator__impl" kind="class"><name>gr::phyauth::comparator_impl</name>
+    <member refid="classgr_1_1phyauth_1_1comparator__impl_1a6912376e8ed26cfbbe7483c79bbcdcf0" kind="function"><name>comparator_impl</name></member>
+    <member refid="classgr_1_1phyauth_1_1comparator__impl_1aac04f9dedc8ba7ee1a7f59f536b6f2e8" kind="function"><name>~comparator_impl</name></member>
+    <member refid="classgr_1_1phyauth_1_1comparator__impl_1ab7a2cbea9dc4ecb9a9f65adf6ca3d4c0" kind="function"><name>forecast</name></member>
+    <member refid="classgr_1_1phyauth_1_1comparator__impl_1a40d2960a733842288e59aed69aef0753" kind="function"><name>general_work</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1phyauth" kind="namespace"><name>gr::phyauth</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a4ad8d6ee3649e0e3145a21ddefac3a01" kind="define"><name>PHYAUTH_API</name></member>
+  </compound>
+  <compound refid="comparator_8h" kind="file"><name>comparator.h</name>
+  </compound>
+  <compound refid="comparator__impl_8h" kind="file"><name>comparator_impl.h</name>
+  </compound>
+  <compound refid="group__defs_8dox" kind="file"><name>group_defs.dox</name>
+  </compound>
+  <compound refid="main__page_8dox" kind="file"><name>main_page.dox</name>
+  </compound>
+  <compound refid="group__block" kind="group"><name>block</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_97aefd0d527b934f1d99a682da8fe6a9" kind="dir"><name>lib</name>
+  </compound>
+  <compound refid="dir_80ac3a399acbcfff0f1a186c9125851d" kind="dir"><name>phyauth</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>
